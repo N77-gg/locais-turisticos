@@ -58,4 +58,7 @@ header{
         }
     }
 }
+footer p{
+    text-align: center;
+}
 }
